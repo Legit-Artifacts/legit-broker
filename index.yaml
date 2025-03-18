@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   legit-broker:
   - apiVersion: v2
+    appVersion: v1.15
+    created: "2025-03-18T13:21:22.572586753Z"
+    description: A Helm chart for Kubernetes
+    digest: 2d4482b08016b6a60130a9162b7e1445194218e31468468e33223b94da702756
+    name: legit-broker
+    type: application
+    urls:
+    - https://legit-artifacts.github.io/legit-broker/legit-broker-1.15.0.tgz
+    version: 1.15.0
+  - apiVersion: v2
     appVersion: v1.14
-    created: "2025-02-19T09:31:55.552460817Z"
+    created: "2025-03-18T13:21:22.57236148Z"
     description: A Helm chart for Kubernetes
     digest: 749baf767e6eae04b52f1f7b8a6f17da9f41d95dedc49c53edb216ecfe15cc23
     name: legit-broker
@@ -13,7 +23,7 @@ entries:
     version: 1.14.0
   - apiVersion: v2
     appVersion: v1.13
-    created: "2025-02-19T09:31:55.552208385Z"
+    created: "2025-03-18T13:21:22.572162567Z"
     description: A Helm chart for Kubernetes
     digest: 1b675689014a4403a25d5da4f3cfb8f5ad24d5ee45b1cd009ab5d8c69be89888
     name: legit-broker
@@ -23,7 +33,7 @@ entries:
     version: 1.13.0
   - apiVersion: v2
     appVersion: v1.12
-    created: "2025-02-19T09:31:55.551958167Z"
+    created: "2025-03-18T13:21:22.571955328Z"
     description: A Helm chart for Kubernetes
     digest: cc54e422e0e7fe32a41e1b091882bf41b791ef4b0e2ad1c241cf4d3a4ba428e8
     name: legit-broker
@@ -33,7 +43,7 @@ entries:
     version: 1.12.0
   - apiVersion: v2
     appVersion: v1.9
-    created: "2025-02-19T09:31:55.55364999Z"
+    created: "2025-03-18T13:21:22.573827492Z"
     description: A Helm chart for Kubernetes
     digest: 7b77b3ef673df7d8422ecf43fe5d6fa1659c8eb90f5ad08499f00d20e7afd2ed
     name: legit-broker
@@ -43,7 +53,7 @@ entries:
     version: 1.9.0
   - apiVersion: v2
     appVersion: v1.7
-    created: "2025-02-19T09:31:55.553466767Z"
+    created: "2025-03-18T13:21:22.573620343Z"
     description: A Helm chart for Kubernetes
     digest: 1e23d74482f03b5107038a68272cd0d7207ef497ce01e6d5a1b055dfb19780ee
     name: legit-broker
@@ -53,7 +63,7 @@ entries:
     version: 1.7.0
   - apiVersion: v2
     appVersion: v1.5
-    created: "2025-02-19T09:31:55.553282473Z"
+    created: "2025-03-18T13:21:22.573383679Z"
     description: A Helm chart for Kubernetes
     digest: b117ee3f5ebad073227f6320a0624568d905f1f0cc20b1656a8c55a5925fd292
     name: legit-broker
@@ -63,7 +73,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: v1.4
-    created: "2025-02-19T09:31:55.553085064Z"
+    created: "2025-03-18T13:21:22.573194114Z"
     description: A Helm chart for Kubernetes
     digest: d3f5f587a6e364af622567a17448e1db43b9507cc9fcee5317eecd18d38c0ab9
     name: legit-broker
@@ -73,7 +83,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: v1.3
-    created: "2025-02-19T09:31:55.552883657Z"
+    created: "2025-03-18T13:21:22.573002624Z"
     description: A Helm chart for Kubernetes
     digest: e54a7dd988f5beb0402c50425facde02c8a9aefbb003870d5bcf6587289226d2
     name: legit-broker
@@ -83,7 +93,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: v1.2
-    created: "2025-02-19T09:31:55.552660259Z"
+    created: "2025-03-18T13:21:22.572797499Z"
     description: A Helm chart for Kubernetes
     digest: ab5974a045428de16ff2cbb9865b34fb990445141b8ac7d1f9a637497f4706c4
     name: legit-broker
@@ -93,7 +103,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: v1.1
-    created: "2025-02-19T09:31:55.551721755Z"
+    created: "2025-03-18T13:21:22.571742919Z"
     description: A Helm chart for Kubernetes
     digest: 8a52785f09434f8ca1caa3b007303441ba368c4bc934d5096e4b7dfa54eeb665
     name: legit-broker
@@ -103,7 +113,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: v0.9
-    created: "2025-02-19T09:31:55.551501012Z"
+    created: "2025-03-18T13:21:22.571489343Z"
     description: A Helm chart for Kubernetes
     digest: fd2390cef125f1b963f826dcbbde0dc8daa27a9d51166cbaa689511103bb8280
     name: legit-broker
@@ -113,7 +123,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: v0.8
-    created: "2025-02-19T09:31:55.55127525Z"
+    created: "2025-03-18T13:21:22.57123174Z"
     description: A Helm chart for Kubernetes
     digest: ac0116c517e125380434fbac9152691ce9ed9e3ca8aadd0b8158fbc7a543354b
     name: legit-broker
@@ -123,7 +133,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: v0.7
-    created: "2025-02-19T09:31:55.551043287Z"
+    created: "2025-03-18T13:21:22.57101331Z"
     description: A Helm chart for Kubernetes
     digest: 6fae9c3119e9df38f7098935bc1c004c08b535587c920d00044a377fdabc8d44
     name: legit-broker
@@ -131,4 +141,4 @@ entries:
     urls:
     - https://legit-artifacts.github.io/legit-broker/legit-broker-1.0.7.tgz
     version: 1.0.7
-generated: "2025-02-19T09:31:55.55068116Z"
+generated: "2025-03-18T13:21:22.570621534Z"
